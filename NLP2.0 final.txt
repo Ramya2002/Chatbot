@@ -1,0 +1,13 @@
+Natural language processing, NLP is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural-language generation.
+It has its roots in the 1950s. Already in 1950, Alan Turing published an article titled "Computing Machinery and Intelligence" which proposed what is now called the Turing test as a criterion of intelligence, a task that involves the automated interpretation and generation of natural language
+The most common tasks in natural language processing: Optical character recognition (OCR),Speech recognition,Speech segmentation,Text-to-speech,Word segmentation (Tokenization),Morphological analysis,Syntactic analysis,Lexical semantics,Relational semantics,Discourse
+Optical character recognition (OCR):Given an image representing printed text, determine the corresponding text.
+Speech recognition:Given a sound clip of a person or people speaking, determine the textual representation of the speech. 
+Text-to-speech:Given a text, transform those units and produce a spoken representation. Text-to-speech can be used to aid the visually impaired.
+Word segmentation (Tokenization):Separate a chunk of continuous text into separate words.
+Lemmatization:The task of removing inflectional endings only and to return the base dictionary form of a word which is also known as a lemma.
+Stemming:The process of reducing inflected (or sometimes derived) words to their root form. 
+Parsing:to determine the parse tree (grammatical analysis) of a given sentence. 
+Named entity recognition (NER):Given a stream of text, determine which items in the text map to proper names, such as people or places, and what the type of each such name is (e.g. person, location, organization).
+Sentiment analysis (see also multimodal sentiment analysis):Extract subjective information usually from a set of documents, often using online reviews to determine "polarity" about specific objects. It is especially useful for identifying trends of public opinion in social media, for marketing.
